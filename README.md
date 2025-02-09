@@ -1,2 +1,2 @@
 # ProblemPlecakowy
-Rozwiązanie problemu plecakowego dwu elementową mutacją
+Rozwiązanie problemu plecakowego dwuelementową strategią ewolucyjną

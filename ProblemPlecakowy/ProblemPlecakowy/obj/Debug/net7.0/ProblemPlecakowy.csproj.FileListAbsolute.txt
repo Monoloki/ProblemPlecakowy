@@ -1,0 +1,14 @@
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\net7.0\ProblemPlecakowy.exe
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\net7.0\ProblemPlecakowy.deps.json
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\net7.0\ProblemPlecakowy.runtimeconfig.json
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\net7.0\ProblemPlecakowy.dll
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\net7.0\ProblemPlecakowy.pdb
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.GeneratedMSBuildEditorConfig.editorconfig
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.AssemblyInfoInputs.cache
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.AssemblyInfo.cs
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.csproj.CoreCompileInputs.cache
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.dll
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\refint\ProblemPlecakowy.dll
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.pdb
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ProblemPlecakowy.genruntimeconfig.cache
+D:\UJ\SztucznaInteligencja\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\net7.0\ref\ProblemPlecakowy.dll
